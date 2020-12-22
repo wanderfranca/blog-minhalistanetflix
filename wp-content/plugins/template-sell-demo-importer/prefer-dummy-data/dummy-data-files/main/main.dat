@@ -1,0 +1,6 @@
+a:4:{s:8:"template";s:6:"prefer";s:4:"mods";a:6:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:6:"menu-1";i:4;s:6:"social";i:5;}s:18:"custom_css_post_id";i:123;s:11:"custom_logo";i:95;s:16:"header_textcolor";s:5:"blank";s:14:"prefer_options";a:9:{s:20:"prefer_enable_slider";b:1;s:22:"prefer-select-category";i:2;s:19:"prefer_enable_promo";b:1;s:28:"prefer-promo-select-category";i:3;s:20:"prefer_enable_search";b:1;s:23:"prefer_enable_offcanvas";b:1;s:28:"prefer-blog-exclude-category";s:0:"";s:23:"prefer-extra-breadcrumb";b:0;s:24:"prefer-blog-image-layout";s:11:"right-image";}}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:140:".post-wrap.right-image .img-cover, .post-wrap.left-image .img-cover{
+	    background-position: left;
+}
+.post-title {
+    line-height: 1.5;
+}";}
